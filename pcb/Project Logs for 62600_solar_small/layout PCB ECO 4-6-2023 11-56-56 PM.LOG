@@ -1,0 +1,9 @@
+Added Component: Designator=R5(RESC1608X55X30NL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ3EKF56R0V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=3.3V Pin=R5-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R5-2
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=schematic Member=Component R5 56

@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=3.3V Pin=D2-1
+Change Component Footprint: Designator=D2 Old Footprint=LTST-LTL-1CHG-2 New Footprint=INDPR60-254-520X380X650
+Change Component Comment : Designator=D2 Old Comment=LTL-1CHG New Comment=LTL-1CHE
+Change Managed Component Library Link : Designator=D2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=B3801362-C555-4D37-943B-A869E6124B74 New ItemGUID=E11D4623-48DE-412D-81E7-D2184D1EB0DD Old RevisionGUID=A5AE29C5-EB4E-492D-8822-479802A88159 New RevisionGUID=6F87D65B-16CB-4E33-A16F-B90AEFC81A58
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LTST-LTL-1CHG-2"; UniqueID = "\ZAZLUNNL" ("\ZAZLUNNL")
+Change component parameters (AddParameter): Name = "Case\Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.us.liteon.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/15117/getdatasheetpartid-187746-15117985.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3.6 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Dec-03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1 inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "11.44 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.97 inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "130 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "55"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Dia 3.8 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "LTL-1CHE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0.045 Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.62 inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Net: Name=NetD1_2

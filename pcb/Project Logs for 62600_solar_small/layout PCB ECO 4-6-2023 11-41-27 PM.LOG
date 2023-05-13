@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3.3V Pin=D1-1
+Added Component: Designator=R4(RESC1608X55X30NL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ3EKF56R0V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=R4-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R4-2
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=schematic Member=Component R4 56

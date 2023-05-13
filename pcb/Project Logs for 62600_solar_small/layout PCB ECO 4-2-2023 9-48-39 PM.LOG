@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3.3V Pin=R3-1
+Change Component Comment : Designator=R4 Old Comment=1K New Comment=100K
+Change Component Comment : Designator=R3 Old Comment=2.2K New Comment=105K
+Change Managed Component Library Link : Designator=R3 Old VaultGUID=4c9b0225-1904-4c2f-8d02-29d6efd5a7f2 New VaultGUID=4c9b0225-1904-4c2f-8d02-29d6efd5a7f2 Old ItemGUID=bc769232-e91d-4512-bdf1-393a58a3aea6 New ItemGUID=94ae3303-0753-41b8-bfd6-0abd06cdba23 Old RevisionGUID=bd5c2e9b-751c-439f-a2e1-243b78efd78d New RevisionGUID=021ada83-bce5-48b7-8d18-abd36cc221d4
+Change Managed Component Library Link : Designator=R4 Old VaultGUID=4c9b0225-1904-4c2f-8d02-29d6efd5a7f2 New VaultGUID=4c9b0225-1904-4c2f-8d02-29d6efd5a7f2 Old ItemGUID=9edef007-2271-462d-98ab-89f3fdaedf6d New ItemGUID=ee8ad131-1390-4faf-b4bf-863e7aa65c71 Old RevisionGUID=17e7c898-e635-459f-addc-896c6148c8be New RevisionGUID=081cef83-95d3-478e-b097-e9758cea34fb
+Change component parameters: Designator = "R3" ("R3"); Footprint = "0603R-IPC-B"; UniqueID = "\IOJDKSTK" ("\IOJDKSTK")
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "105K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "0603R-IPC-B"; UniqueID = "\XSUQJEMC" ("\XSUQJEMC")
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=R3-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R4-1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-1
+Added Net: Name=NetR3_1

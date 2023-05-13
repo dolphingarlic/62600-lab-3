@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=2.2V Pin=D3-1
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetR2_1 Pin=R3-2
+Removed Member From Class: ClassName=schematic Member=D3
+Change Component Footprint: Designator=R3 Old Footprint=RESC1608X55X30NL15T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Comment : Designator=R3 Old Comment=68K New Comment=39K
+Change Managed Component Library Link : Designator=R3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F37442D2-0EA3-4788-B252-EB1EE19DB657 New ItemGUID=59EA3EE4-9B14-44E6-ACC4-FB2EA31162E7 Old RevisionGUID=B2208D7D-8291-4437-97E6-22C1F8C6DF7B New RevisionGUID=D400DBE5-6AA2-4651-89B7-8E50DC97FBA0
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC1608X55X30NL15T15"; UniqueID = "\KNORHMPY" ("\KNORHMPY")
+Change component parameters (AddParameter): Name = "Case Code - in"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code - mm"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "39kOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR2_1 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Change Net Name : Old Net Name=2.2V New Net Name=3.3V

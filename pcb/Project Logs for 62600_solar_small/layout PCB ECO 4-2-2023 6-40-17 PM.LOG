@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=NetR3_2 Pin=U?-1
+Removed Pin From Net: NetName=NetC3_2 Pin=U?-2
+Removed Pin From Net: NetName=GND Pin=U?-3
+Removed Pin From Net: NetName=NetR2_1 Pin=U?-5
+Removed Pin From Net: NetName=GND Pin=U?-6
+Removed Pin From Net: NetName=GND Pin=U?-7
+Removed Pin From Net: NetName=NetC1_2 Pin=U?-8
+Removed Pin From Net: NetName=NetL1_2 Pin=U?-9
+Removed Pin From Net: NetName=3.3V Pin=U?-11
+Removed Member From Class: ClassName=schematic Member=U?
+Added Component: Designator=U1(LT-DD-10_V)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-229"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.linear.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://cds.linear.com/docs/en/datasheet/3105fa.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://cds.linear.com/docs/en/packaging/DFN_10_05-08-1699.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Energy Source"; Value = "Solar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "10-Pin Plastic DFN, Body 3 x 3 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DD-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. C, 06/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LTC3105EDD#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Boost"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin Max(V)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin Min(V)"; Value = "0.225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout Max(V)"; Value = "5.25"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR3_2 Pin=U1-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetR2_1 Pin=U1-5
+Added Pin To Net: NetName=NetC1_2 Pin=U1-6
+Added Pin To Net: NetName=NetL1_2 Pin=U1-7
+Added Pin To Net: NetName=3.3V Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Member To Class: ClassName=schematic Member=Component U1 LTC3105EDD#PBF
